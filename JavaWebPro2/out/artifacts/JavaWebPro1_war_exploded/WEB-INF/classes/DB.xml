@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user id="24763fbb-beda-46da-8e55-019a19eea9cc" userName="tom" userPwd="123" email="2628858715@qq.com" birthday="1998-06-04"/>  
+  <user id="63c51ad0-ac71-451f-a030-0ced1c2a5560" userName="ugu" userPwd="456" email="1234567@qq.com" birthday="1998-06-04"/>  
+  <user id="a9a6b821-3ed9-4e1d-896b-bf8c09b7b7e4" userName="tyfyt" userPwd="123" email="2628858715@qq.com" birthday="1998-06-04"/>
+</users>
